@@ -24,8 +24,8 @@
 ## DESARROLLO
 
 1. Abrir Azure Data Studio, conectarse al servidor y restaurar la base de datos [TSQL](TSQL.bak) 
-2. En Azure Data Studio, abrir el archivo [Sesión 03](Sesion04SQL.ipynb) y ejecutar todos los pasos, subir el archivo con los resultados.
+2. En Azure Data Studio, abrir el archivo [Sesión 03](Sesion03SQL.ipynb) y ejecutar todos los pasos, subir el archivo con los resultados.
 
 ## ACTIVIDADES
 
-1. Completar el archivo [Laboratorio 03](Lab04SQL.ipynb), con los comandos de Expresiones de tabla regulares faltantes, subir los cambios con las ejecuciones.
+1. Completar el archivo [Laboratorio 03](Lab03SQL.ipynb), con los comandos de Expresiones de tabla regulares faltantes, subir los cambios con las ejecuciones.
